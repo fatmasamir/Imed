@@ -857,6 +857,7 @@ footer {
   background: var(--mainColor);
   color: var(--submain);
   padding: 30px 0px 50px;
+  margin-top: 150px;
 }
 
 
