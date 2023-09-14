@@ -969,8 +969,13 @@ footer form button {
     margin-bottom: 50px;
   }
 
+  .Demonstration .video_wrapper .watch_video {
+    height: 100%;
+  }
+
   .Demonstration .video_wrapper #icon_play {
     left: 40%;
+    top: 16%;
   }
 
   .Information .Information_sec {
@@ -994,6 +999,30 @@ footer form button {
     margin: auto;
   }
 
+  footer .para_footer>div {
+    margin-bottom: 30px;
+  }
+
+  #lines_title {
+    flex-direction: column;
+    width: 100% !important;
+  }
+
+  #lines_title h4 {
+    padding: 20px 0px;
+  }
+
+  .Prominent .sec_center .sec_center_img {
+    margin-bottom: 50px;
+  }
+
+  .Prominent .checkboxes_div li {
+    display: block;
+  }
+
+  .Prominent .sec_center .checkboxes_div {
+    width: 100%;
+  }
 
   .Contact .contentForm {
     padding: 10px;
